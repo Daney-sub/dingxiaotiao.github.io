@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.png
+heroImage: 
 heroText: 叮小跳
 tagline: 一款强大的跳广告APP
 actionText: 快速上手 →
