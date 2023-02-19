@@ -6,15 +6,6 @@ export default {
     
     theme: defaultTheme({
       // 默认主题配置
-      Array<{
-        text: string
-        link: string
-        type?: 'primary' | 'secondary'
-      }>
-      Array<{
-        title: string
-        details: string
-      }>
       navbar: [
         {
           text: '首页',
