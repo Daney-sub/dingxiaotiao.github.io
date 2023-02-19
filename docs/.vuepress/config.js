@@ -3,7 +3,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 
 export default {
     base:"/",
-    
+    head: [['link', { rel: 'icon', href: '/public/logo.png' }]],
     theme: defaultTheme({
       // 默认主题配置
       navbar: [

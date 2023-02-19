@@ -1,22 +1,22 @@
 ---
 home: true
-heroImage: /favicon.png
-heroText: igloo's document
+heroImage: /logo.png
+heroText: 叮小跳
 actions:
-  - text: Quick
+  - text: 快速访问
     link: /Guide/
     type: primary
-  - text: Intro
+  - text: 叮小跳简介
     link: /guide/
     type: secondary
 features:
-- title: Note
-  details: Markdown-centered notes that record every moment succinctly and efficiently
-- title: Blog
-  details: Clean and tidy blog, easy to archive files
-- title: Document
-  details: Online personal documentation, make the desired documentation
-footer: MIT Licensed | Copyright © 2016-present Passwordgloo
+- title: 自动跳过
+  details: 快速跳过开屏广告
+- title: 扩展中心
+  details: 多种扩展功能免费使用
+- title: 权限设置
+  details: 无需Root，设置自启动即可轻松过滤广告
+footer: 叮小跳 | Copyright © 2020-2023
 ---
 
 
