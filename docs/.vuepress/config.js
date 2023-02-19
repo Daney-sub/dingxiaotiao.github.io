@@ -11,7 +11,7 @@ export default {
           link: '/',
         },
         {
-          text: 'getting-started',
+          text: '新手上路',
           link: '/guide/getting-started',
         }
       ],

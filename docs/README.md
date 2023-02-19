@@ -4,7 +4,7 @@ heroImage: /logo.png
 heroText: 叮小跳
 tagline: 一款强大的跳广告APP
 actionText: 快速上手 →
-actionLink: /zh/guide/
+actionLink: /zh/guide/introduce.md
 features:
 - title: 自动跳过
   details: 快速跳过开屏广告
