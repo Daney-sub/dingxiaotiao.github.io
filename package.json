@@ -1,0 +1,16 @@
+
+{
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "name": "dingxiaotao.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dingxiaotiao/dingxiaotao.github.io.git",
+  "author": "SongXinXin <1368084801@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.60"
+  }
+}
