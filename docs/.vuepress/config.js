@@ -7,8 +7,9 @@ export default {
   lang: 'zh-cn',
   title: '叮小跳',
   description: '一款强大的跳过广告应用',
-  contributors: false,
+  
   theme: defaultTheme({
+    contributors: false,
     // 默认主题配置
     navbar: [
       {
