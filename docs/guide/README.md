@@ -1,3 +1,0 @@
-# Guide-README
-
-12edqwwwwwwwww
