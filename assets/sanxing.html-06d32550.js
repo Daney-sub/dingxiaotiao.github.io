@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-68d9fc6c","path":"/wiki/houtai/sanxing.html","title":"","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":1676892191000},"filePathRelative":"wiki/houtai/sanxing.md"}');export{t as data};
