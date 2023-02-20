@@ -40,7 +40,7 @@ export default {
           children: ['/wiki/xinshou.md'],
         },
         {
-          text: '后台保活',
+          text: '后台保活教程',
           collapsible: false,
           children: ['/wiki/houtai/huawei.md','/wiki/houtai/xiaomi.md','/wiki/houtai/oppo.md','/wiki/houtai/meizu.md','/wiki/houtai/sanxing.md','/wiki/houtai/qita.md'],
 
