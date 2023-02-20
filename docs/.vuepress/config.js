@@ -40,9 +40,19 @@ export default {
           children: ['/wiki/xinshou.md'],
         },
         {
+          text: '后台保活',
+          collapsible: false,
+          children: ['/wiki/houtai/huawei.md'],
+          children: ['/wiki/houtai/xiaomi.md'],
+          children: ['/wiki/houtai/oppo.md'],
+          children: ['/wiki/houtai/meizu.md'],
+          children: ['/wiki/houtai/sanxing.md'],
+          children: ['/wiki/houtai/qita.md'],
+        },
+        {
           text: '关于我们',
           collapsible: false,
-          children: ['/wiki/test.md'],
+          children: ['/wiki/about.md'],
         }
       ],
     },
