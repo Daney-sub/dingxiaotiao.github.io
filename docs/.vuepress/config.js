@@ -42,16 +42,13 @@ export default {
         {
           text: '后台保活',
           collapsible: false,
-          children: ['/wiki/houtai/huawei.md'],
-          children: ['/wiki/houtai/xiaomi.md'],
-          children: ['/wiki/houtai/oppo.md'],
-          children: ['/wiki/houtai/meizu.md'],
-          children: ['/wiki/houtai/sanxing.md'],
-          children: ['/wiki/houtai/qita.md'],
+          children: ['/wiki/houtai/huawei.md','/wiki/houtai/xiaomi.md','/wiki/houtai/oppo.md','/wiki/houtai/meizu.md','/wiki/houtai/sanxing.md','/wiki/houtai/qita.md'],
+
         },
         {
           text: '关于我们',
           collapsible: false,
+          sidebarDepth:'2,3'
           children: ['/wiki/about.md'],
         }
       ],
