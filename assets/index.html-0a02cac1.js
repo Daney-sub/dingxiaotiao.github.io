@@ -1,0 +1,1 @@
+const i=JSON.parse('{"key":"v-15814726","path":"/wiki/","title":"Wiki-README","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":1676874855000,"contributors":[{"name":"SongXinXin","email":"1368084801@qq.com","commits":1}]},"filePathRelative":"wiki/README.md"}');export{i as data};
