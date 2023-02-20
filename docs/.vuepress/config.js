@@ -19,5 +19,27 @@ export default {
         link: '/guide/getting-started',
       }
     ],
+
+   // 可折叠的侧边栏
+   sidebar: {
+    '/reference/': [
+      {
+        text: 'VuePress Reference',
+        collapsible: true,
+        children: ['/reference/cli.md', '/reference/config.md'],
+      },
+      {
+        text: 'Bundlers Reference',
+        collapsible: true,
+        children: ['/reference/bundler/vite.md', '/reference/bundler/webpack.md'],
+      },
+    ],
+  },
+
+
   }),
+
+
+
+  
 }
