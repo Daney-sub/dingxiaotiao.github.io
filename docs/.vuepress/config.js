@@ -32,12 +32,12 @@ export default {
       '/wiki/': [
         {
           text: '新手上路',
-          collapsible: true,
+          collapsible: false,
           children: ['/wiki/xinshou.md'],
         },
         {
           text: '分组名称',
-          collapsible: true,
+          collapsible: false,
           children: ['/wiki/test.md'],
         }
       ],

@@ -4,10 +4,10 @@ heroImage: /logo.png
 heroText: 叮小跳
 actions:
   - text: 快速访问
-    link: /wiki/xinshou.md
+    link: /wiki/introduce.md
     type: primary
-  - text: 叮小跳简介
-    link: /guide/introduce.md
+  - text: 新手上路
+    link: /wiki/xinshou.md
     type: secondary
 features:
 - title: 自动跳过
