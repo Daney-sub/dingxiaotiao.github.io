@@ -19,27 +19,20 @@ export default {
         link: '/guide/getting-started',
       }
     ],
-
-   // 可折叠的侧边栏
-   sidebar: {
-    '/reference/': [
-      {
-        text: 'VuePress Reference',
-        collapsible: true,
-        children: ['/reference/cli.md', '/reference/config.md'],
-      },
-      {
-        text: 'Bundlers Reference',
-        collapsible: true,
-        children: ['/reference/bundler/vite.md', '/reference/bundler/webpack.md'],
-      },
-    ],
-  },
-
+    // 侧边栏对象
+    // 不同子路径下的页面会使用不同的侧边栏
+    sidebar: {
+      '/guide/': [
+        {
+          text: 'Guide',
+          children: ['/guide/README.md', '/guide/getting-started.md'],
+        },
+      ],
+      '/reference/': [
+        {
+          text: 'Reference',
+          children: ['/reference/cli.md', '/reference/config.md'],
+        },
+      ],
 
   }),
-
-
-
-  
-}
