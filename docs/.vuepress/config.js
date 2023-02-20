@@ -20,6 +20,10 @@ export default {
         text: '新手上路',
         link: '/wiki/xinshou',
       },
+      {
+        text: '常见问题',
+        link: '/wiki/faq',
+      },
     ],
     sidebar: {
       '/guide/':[
@@ -36,7 +40,7 @@ export default {
           children: ['/wiki/xinshou.md'],
         },
         {
-          text: '分组名称',
+          text: '关于我们',
           collapsible: false,
           children: ['/wiki/test.md'],
         }

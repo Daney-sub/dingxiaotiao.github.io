@@ -6,8 +6,8 @@ actions:
   - text: 快速访问
     link: /wiki/introduce.md
     type: primary
-  - text: 新手上路
-    link: /wiki/xinshou.md
+  - text: 下载叮小跳
+    link: https://www.123pan.com/s/bud7Vv-pUBd3
     type: secondary
 features:
 - title: 自动跳过
