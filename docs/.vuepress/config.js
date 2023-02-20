@@ -35,6 +35,11 @@ export default {
       ],
       '/wiki/': [
         {
+          text: '了解叮小跳',
+          collapsible: false,
+          children: ['/wiki/introduce.md'],
+        },
+        {
           text: '新手上路',
           collapsible: false,
           children: ['/wiki/xinshou.md'],
