@@ -48,7 +48,7 @@ export default {
         {
           text: '关于我们',
           collapsible: false,
-          sidebarDepth:'2,3'
+          sidebarDepth:'2,3',
           children: ['/wiki/about.md'],
         }
       ],
