@@ -7,6 +7,7 @@ export default {
   lang: 'zh-cn',
   title: '叮小跳',
   description: '一款强大的跳过广告应用',
+  contributors: false,
   theme: defaultTheme({
     // 默认主题配置
     navbar: [
@@ -19,27 +20,6 @@ export default {
         link: '/wiki/xinshou',
       },
     ],
-    // 侧边栏数组
-    // 所有页面会使用相同的侧边栏
-    // sidebar: [
-    //   // SidebarItem
-    //   {
-    //     text: 'wiki',
-    //     link: '/wiki/',
-    //     children: [
-    //       // SidebarItem
-    //       {
-    //         text: 'github',
-    //         link: 'https://github.com',
-    //         children: [],
-    //       },
-    //       // 字符串 - 页面文件路径
-    //       '/wiki/xinshou.md',
-    //     ],
-    //   },
-    //   // 字符串 - 页面文件路径
-    //   '/guide/README.md',
-    // ],
     sidebar: {
       '/guide/':[
         {
@@ -61,26 +41,5 @@ export default {
         }
       ],
     },
-
-    // sidebar:{
-    //   '/wiki/':[
-    //     {
-    //       text:'🚶‍♂️新手上路',
-    //       link:'/wiki/xinshou.md#🚶‍♂️新手上路'
-    //     },
-    //     {
-    //       text:'⚙️开启无障碍权限',
-    //       link:'/wiki/xinshou.md#⚙️开启无障碍权限'
-    //     },
-    //     {
-    //       text:'🪟开启悬浮窗权限',
-    //       link:'/wiki/xinshou.md#🪟开启悬浮窗权限'
-    //     },
-    //     {
-    //       text:'📑规则自定义规则自定义',
-    //       link:'/wiki/xinshou.md#📑规则自定义'
-    //     }
-    //   ]
-    //}
   }),
 }
