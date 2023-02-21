@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-067eaace","path":"/wiki/guize.html","title":"📑规则自定义","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":1676989392000},"filePathRelative":"wiki/guize.md"}');export{e as data};
