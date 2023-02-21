@@ -17,7 +17,7 @@
 
 <center>
 
-![叮小跳](https://b.dinglegedong.com/img/huawei/2.jpg)<br/>
+![叮小跳](https://b.dinglegedong.com/img/huawei/5.jpg)<br/>
 
 </center>
 
@@ -25,22 +25,23 @@
 
 <center>
 
-![叮小跳](https://b.dinglegedong.com/img/huawei/3.jpg)<br/>
+![叮小跳](https://b.dinglegedong.com/img/huawei/2.jpg)<br/>
 
 </center>
+
 
 ### 🔒最近任务锁定应用
 打开最近任务，下拉“叮小跳”锁定软件<br/>
 
 <center>
 
-![叮小跳](https://b.dinglegedong.com/img/huawei/4.jpg)<br/>
+![叮小跳](https://b.dinglegedong.com/img/huawei/3.jpg)<br/>
 
 </center>
 
 <center>
 
-![叮小跳](https://b.dinglegedong.com/img/huawei/5.jpg)<br/>
+![叮小跳](https://b.dinglegedong.com/img/huawei/4.jpg)<br/>
 
 </center>
 
