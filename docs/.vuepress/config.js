@@ -46,7 +46,7 @@ export default {
           text: '新手上路',
           collapsible: false,
          
-          children: ['/wiki/xinshou.md']
+          children: ['/wiki/xinshou.md','/wiki/wuzhangai.md','/wiki/xuanfuchuang.md']
         },
         {
         text: '功能指南',
