@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-71618c32","path":"/wiki/xinshou.html","title":"🚶‍♂️新手上路","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":1677246109000},"filePathRelative":"wiki/xinshou.md"}');export{t as data};
