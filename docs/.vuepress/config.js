@@ -1,8 +1,10 @@
 import { defaultTheme } from '@vuepress/theme-default'
 
 
+
 export default {
   base: "/",
+
   head: [['link', { rel: 'icon', href: '/logo.png' }]],
   lang: 'zh-cn',
   title: '叮小跳',
@@ -28,9 +30,11 @@ export default {
       },
       {
         text: '🎁流量卡福利',
-        link: 'https://tec.pai.ci',
+        link: '/wiki/gift',
       },
     ],
+
+
     sidebar: {
       '/guide/': [
         {
