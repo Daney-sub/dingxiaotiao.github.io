@@ -7,7 +7,7 @@ export default {
   lang: 'zh-cn',
   title: '叮小跳',
   description: '一款强大的跳过广告应用',
-  
+
   theme: defaultTheme({
     contributors: false,
     // 默认主题配置
@@ -18,17 +18,21 @@ export default {
       },
       {
         text: '新手上路',
-        
+
         link: '/wiki/xinshou',
-        
+
       },
       {
         text: '常见问题',
         link: '/wiki/faq',
       },
+      {
+        text: '🎁流量卡福利',
+        link: 'https://tec.pai.ci',
+      },
     ],
     sidebar: {
-      '/guide/':[
+      '/guide/': [
         {
           text: '叮小跳简介',
           collapsible: false,
@@ -39,24 +43,24 @@ export default {
         {
           text: '了解叮小跳',
           collapsible: false,
-         
+
           children: ['/wiki/introduce.md'],
         },
         {
           text: '新手上路',
           collapsible: false,
-         
-          children: ['/wiki/xinshou.md','/wiki/wuzhangai.md','/wiki/xuanfuchuang.md']
+
+          children: ['/wiki/xinshou.md', '/wiki/wuzhangai.md', '/wiki/xuanfuchuang.md']
         },
         {
-        text: '功能指南',
-        collapsible: false,
-        children: ['/wiki/guize.md'],
-      },
+          text: '功能指南',
+          collapsible: false,
+          children: ['/wiki/guize.md'],
+        },
         {
           text: '后台保活',
           collapsible: false,
-          children: ['/wiki/houtai/huawei.md','/wiki/houtai/xiaomi.md','/wiki/houtai/oppo.md','/wiki/houtai/meizu.md','/wiki/houtai/sanxing.md','/wiki/houtai/qita.md'],
+          children: ['/wiki/houtai/huawei.md', '/wiki/houtai/xiaomi.md', '/wiki/houtai/oppo.md', '/wiki/houtai/meizu.md', '/wiki/houtai/sanxing.md', '/wiki/houtai/qita.md'],
 
         },
         {
@@ -72,7 +76,7 @@ export default {
         {
           text: '关于我们',
           collapsible: false,
-     
+
           children: ['/wiki/about.md'],
         }
       ],
