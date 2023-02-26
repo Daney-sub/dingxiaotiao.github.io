@@ -3,7 +3,7 @@ home: true
 heroImage: /logo.png
 heroText: 叮小跳
 actions:
-  - text: 👉快速访问
+  - text: 快速访问
     link: /wiki/introduce.md
     type: primary
   - text: 下载叮小跳
