@@ -23,6 +23,13 @@
 </center>
 
 3.在启动后，会自动跳转到微信页面，在跳转后就不要再进行其他操作，等待检测完成即可
+* 在检测时，可点击左侧提示悬浮窗来进行关闭
+
+<center>
+
+![叮小跳](https://b.dinglegedong.com/img/haoyou/b5.png)<br/>
+
+</center>
 
 
 4.点击中间的按钮即可查看哪些好友为正常好友
@@ -38,3 +45,5 @@
 ![叮小跳](https://b.dinglegedong.com/img/haoyou/b4.png)<br/>
 
 </center>
+
+6.检测完成后，在异常好友中复制昵称去微信中进行搜索删除即可。

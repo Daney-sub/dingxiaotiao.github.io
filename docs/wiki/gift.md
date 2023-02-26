@@ -48,6 +48,11 @@ externalLinkIcon: flase
 
 ## 📞套餐多样任意选
 卡种多样，低资费套餐可供挑选~
+<center>
+
+ ![叮小跳](https://b.dinglegedong.com/img/ad/ad3.jpeg)
+
+</center>
 
 ## 💡号卡指南
 * 为什么营业厅里找不到这些套餐？

@@ -59,7 +59,7 @@ export default {
         {
           text: '功能指南',
           collapsible: false,
-          children: ['/wiki/guize.md'],
+          children: ['/wiki/guize.md','/wiki/haoyou.md'],
         },
         {
           text: '后台保活',
