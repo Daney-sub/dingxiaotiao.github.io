@@ -12,6 +12,7 @@ export default {
 
   theme: defaultTheme({
     contributors: false,
+    
     // 默认主题配置
     navbar: [
       {
@@ -34,7 +35,7 @@ export default {
       },
     ],
 
-
+    sidebarDepth: 0,
     sidebar: {
       '/guide/': [
         {
