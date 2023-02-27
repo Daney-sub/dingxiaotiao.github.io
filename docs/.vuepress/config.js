@@ -10,6 +10,7 @@ export default {
   description: '一款强大的跳过广告应用',
   theme: defaultTheme({
     contributors: false,
+    
     // 默认主题配置
     navbar: [
       {
@@ -32,7 +33,7 @@ export default {
       },
     ],
 
-
+    sidebarDepth: 0,
     sidebar: {
       '/guide/': [
         {
