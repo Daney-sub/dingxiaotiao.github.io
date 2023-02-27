@@ -4,12 +4,10 @@ import { defaultTheme } from '@vuepress/theme-default'
 
 export default {
   base: "/",
-
   head: [['link', { rel: 'icon', href: '/logo.png' }]],
   lang: 'zh-cn',
   title: '叮小跳',
   description: '一款强大的跳过广告应用',
-
   theme: defaultTheme({
     contributors: false,
     // 默认主题配置
