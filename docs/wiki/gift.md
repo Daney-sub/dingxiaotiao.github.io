@@ -1,6 +1,5 @@
 ---
 sidebar: flase,
-externalLinkIcon: flase
 ---
 # 🎁免费领取正规流量卡 <Badge type="danger" text="限时"/>
 

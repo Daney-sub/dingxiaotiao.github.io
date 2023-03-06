@@ -24,6 +24,11 @@ export default {
 
       },
       {
+        text: '功能指南',
+
+        children: ['/wiki/guize.md','/wiki/haoyou.md','/wiki/wuzhangai','/wiki/xuanfuchuang'],
+      },
+      {
         text: '常见问题',
         link: '/wiki/faq',
       },
@@ -35,13 +40,13 @@ export default {
 
     sidebarDepth: 0,
     sidebar: {
-      '/guide/': [
-        {
-          text: '叮小跳简介',
-          collapsible: false,
-          children: ['/guide/introduce.md'],
-        },
-      ],
+ //     '/guide/': [
+   //     {
+   //       text: '叮小跳简介',
+     //    collapsible: false,
+  //        children: ['/wiki/introduce.md'],
+    //    },
+ //     ],
       '/wiki/': [
         {
           text: '了解叮小跳',
@@ -80,7 +85,7 @@ export default {
           text: '关于我们',
           collapsible: false,
 
-          children: ['/wiki/about.md'],
+          children: ['/wiki/about'],
         }
       ],
     },

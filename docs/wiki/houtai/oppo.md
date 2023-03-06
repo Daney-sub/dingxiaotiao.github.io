@@ -1,5 +1,5 @@
 # 📱OPPO手机设置教程
-测试机型：OPPO Reno7 pro<br/>
+> 测试机型：OPPO Reno7 pro<br/>
 系统版本：Android 11<br/>
 ## 💡设置步骤
 ### 📳设置自启动
