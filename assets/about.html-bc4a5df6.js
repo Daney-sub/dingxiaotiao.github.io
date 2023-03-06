@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7b5745dc","path":"/wiki/about.html","title":"👏联系我们","lang":"zh-cn","frontmatter":{},"headers":[{"level":2,"title":"🎨加入社群","slug":"🎨加入社群","link":"#🎨加入社群","children":[]}],"git":{"updatedTime":1678117374000},"filePathRelative":"wiki/about.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-0a4e16c9","path":"/wiki/wuzhangai.html","title":"⚙️开启无障碍","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":1678117374000},"filePathRelative":"wiki/wuzhangai.md"}');export{a as data};
